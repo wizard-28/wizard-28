@@ -16,8 +16,8 @@
 ## ⚡ My stats
 <p align="center">
   <img align="left" width="440rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=wizard-28&hide_border=true&theme=radical"/>
-  <img align="center" width="440rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
-  <img width="440rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&hide_border=true&theme=radical"/>
+  <img align="right" width="440rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
+  <img align="center" width="440rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&hide_border=true&theme=radical"/>
 </p>  
 
 ## 🏆 My trophies
