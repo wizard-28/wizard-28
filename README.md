@@ -15,8 +15,8 @@
 
 ## ⚡ My stats
 <p align="center">
-  <img align="left" width="420rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=wizard-28&hide_border=true&theme=radical"/>
-  <img align="right" width="420rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
+  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=wizard-28&hide_border=true&theme=radical"/>
+  <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
   <img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
 </p>  
 
