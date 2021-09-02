@@ -1,7 +1,3 @@
-<p align="right">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/wizard-28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</p>
-
 <!-- Heading -->
 <h1 align="center">
   Welcome to Sourajyoti Basak's profile!
