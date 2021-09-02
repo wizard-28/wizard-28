@@ -12,3 +12,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FE428E&size=22&center=true&vCenter=true&width=500&height=45&lines=Also+known+as+wizard-28;15+years+old+software+developer;GNU%2FLinux+%26+Free+Software+enthusiast;Nice+to+meet+you!"></a>
 </p>
+
+## 🏆 My trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=narutoxy&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+</p>
