@@ -28,6 +28,6 @@
 
 ## 🏆 My trophies
 <p align="center">
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=wizard-28&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wizard-28&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophy" />
 </p>
 
