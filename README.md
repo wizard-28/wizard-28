@@ -9,14 +9,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FE428E&size=22&center=true&vCenter=true&width=500&height=45&lines=Also+known+as+wizard-28;15+years+old+software+developer;GNU%2FLinux+%26+Free+Software+enthusiast;Nice+to+meet+you!"></a>
 </p>
 
-## ⚡ My stats
-<p align="center">
-  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=wizard-28&hide_border=true&theme=radical"/>
-  <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
-  <img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
-</p>
-
-## ⚙️ My current setup
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Pop!__OS-informational?&style=for-the-badge&color=46b3c1"/>
   <img src="https://img.shields.io/badge/WM-SWAY-%23afa137?style=for-the-badge"/>
@@ -24,6 +16,13 @@
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%2359933d?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BROWSER-FIREFOX-%23f47a03?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
+</p>
+
+## ⚡ My stats
+<p align="center">
+  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=wizard-28&hide_border=true&theme=radical"/>
+  <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-28&hide_border=true&theme=radical"/>
+  <img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
 </p>
 
 ## 🏆 My trophies
