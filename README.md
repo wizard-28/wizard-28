@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/OS-Pop!__OS-informational?&style=for-the-badge&color=46b3c1"/>
   <img src="https://img.shields.io/badge/WM-SWAY-%23afa137?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TERM-ALACRITTY-%23e42f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BROWSER-LIBREWOLF-%2300acff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%2359933d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BROWSER-FIREFOX-%23f47a03?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
 </p>
 
