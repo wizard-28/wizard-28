@@ -11,10 +11,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Pop!__OS-informational?&style=for-the-badge&color=46b3c1"/>
-  <img src="https://img.shields.io/badge/WM-SWAY-%23afa137?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TERM-ALACRITTY-%23e42f00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BROWSER-LIBREWOLF-%2300acff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDITOR-DOOM%20EMACS-%23c63b34?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DE-COSMIC-%2315224D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TERM-WEZTERM-%23510FA9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BROWSER-BRAVE-%23FD1D13?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%23308027?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
 </p>
 
