@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/BROWSER-BRAVE-%23FD1D13?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%23308027?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DS-WAYLAND-%ffbc00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHELL-NUSHELL-%1A3302?style=for-the-badge"/>
 </p>
 
 ## ⚡ My stats
