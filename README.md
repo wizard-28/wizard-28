@@ -21,11 +21,3 @@
   <img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-28&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
 </p>
 
-## 📈 My contribution graph
-<img src="https://activity-graph.herokuapp.com/graph?username=wizard-28&hide_border=true&theme=redical"/>
-
-## 🏆 My trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wizard-28&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophy" />
-</p>
-
